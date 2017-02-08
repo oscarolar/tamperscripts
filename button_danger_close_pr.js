@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Close Pull request button red
 // @namespace    https://github.com/oalca
-// @version      0.1
+// @version      0.2
 // @description  This script displays in red the button on github comment and close
 // @author       Oscar Alcala
 // @match        https://github.com/*
