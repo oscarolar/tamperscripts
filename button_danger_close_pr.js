@@ -6,8 +6,11 @@
 // @author       Oscar Alcala
 // @match        https://github.com/*
 // @grant        none
+// @connect       github.com
 // @require http://code.jquery.com/jquery-latest.js
 // @include https://github.com/*
+// @updateURL    https://raw.githubusercontent.com/oscarolar/tamperscripts/master/button_danger_close_pr.js
+// @downloadURL    https://raw.githubusercontent.com/oscarolar/tamperscripts/master/button_danger_close_pr.js
 // ==/UserScript==
 
 (function() {
